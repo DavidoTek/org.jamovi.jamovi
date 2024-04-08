@@ -36,6 +36,20 @@
   </screenshots>
 
   <releases>
+    <release version="2.5.2" date="2024-03-25">
+      <description>
+        <ul>
+          <li>General bug-fixes and improvements</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.5.1" date="2024-03-14">
+      <description>
+        <ul>
+          <li>General bug-fixes and improvements</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.4.11" date="2023-10-19">
       <description>
         <ul>
